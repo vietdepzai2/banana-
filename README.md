@@ -136,7 +136,7 @@ getgenv().Setting = {
 
                 ["X"] = {
 
-                    ["Enable"] = true,
+                    ["Enable"] = false,
 
                     ["HoldTime"] = 0,
 
@@ -146,7 +146,7 @@ getgenv().Setting = {
 
                 ["C"] = {
 
-                    ["Enable"] = true,
+                    ["Enable"] = falsefalse,
 
                     ["HoldTime"] = 0,
 
@@ -154,7 +154,7 @@ getgenv().Setting = {
 
                 ["V"] = {
 
-                    ["Enable"] = true,
+                    ["Enable"] = falsefalse,
 
                     ["HoldTime"] = 0,
 
@@ -174,7 +174,7 @@ getgenv().Setting = {
 
         ["Gun"] = {
 
-            ["Enable"] = false,
+            ["Enable"] = true,
 
             ["Delay"] = 2,
 
@@ -182,7 +182,7 @@ getgenv().Setting = {
 
                 ["Z"] = {
 
-                    ["Enable"] = false,
+                    ["Enable"] = truetrue,
 
                     ["HoldTime"] = 0.7,
 
